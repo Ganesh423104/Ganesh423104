@@ -4,7 +4,7 @@ src ="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 <h1 align="center">Hi 👋, I'm Ganesh Kekan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="codding" width="400" src="https://camo.githubusercontent.com/6b065a63af6ffe542f29d852cf02f54382438901dd3ee35cafa1752e586a2306/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+<img align="right" alt="codding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh423104&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh423104" /> </p>
 
