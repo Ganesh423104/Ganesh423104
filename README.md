@@ -1,4 +1,4 @@
-<img alt="codding" width="1000px" 
+<img alt="codding" height="500px" width="100%" 
 src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Ganesh Kekan</h1>
