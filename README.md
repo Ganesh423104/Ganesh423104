@@ -1,5 +1,5 @@
 <img align="center" alt="codding" width="100%" 
-src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gifhttps://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Ganesh Kekan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
